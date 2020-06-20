@@ -10,7 +10,7 @@ import time
 
 # 全局变量
 HOST = "0.0.0.0"
-PORT = 8888
+PORT = 8999
 ADDR = (HOST, PORT)
 
 FTP = "/home/tarena/FTP/" # 文件库位置

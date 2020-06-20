@@ -10,7 +10,7 @@ from select import select
 
 #　创建好监听套接字
 sockfd = socket()
-sockfd.bind(("0.0.0.0",8888))
+sockfd.bind(("0.0.0.0",8999))
 sockfd.listen(5)
 
 
