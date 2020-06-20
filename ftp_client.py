@@ -1,8 +1,3 @@
-"""
-ftp 客户端
-c/s模型  发送请求，获取结果
-"""
-
 from socket import *
 
 # 服务器地址
